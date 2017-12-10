@@ -1,0 +1,15 @@
+# PlanAhead Generated physical constraints
+NET "Cin" LOC = V8;
+NET "Cout" LOC = F6;
+NET "S[0]" LOC = AE24;
+NET "S[1]" LOC = AD24;
+NET "S[2]" LOC = AD25;
+NET "S[3]" LOC = AD26;
+NET "X[0]" LOC = AC24;
+NET "X[1]" LOC = AC25;
+NET "X[2]" LOC = AE26;
+NET "X[3]" LOC = AE27;
+NET "Y[0]" LOC = AF26;
+NET "Y[1]" LOC = AF25;
+NET "Y[2]" LOC = AG27;
+NET "Y[3]" LOC = U25;
